@@ -6,6 +6,8 @@ import MovieComponent from './MovieComponent';
 import tvIcon from './tv.svg'
 
 
+
+
 const apiURL = 'https://www.omdbapi.com?apikey=90729ca8&'
 
 function App() { 

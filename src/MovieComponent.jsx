@@ -10,7 +10,6 @@ const MovieComponent = ({ movie }) => {
                     <img src={movie.Poster !== 'N/A' ? movie.Poster : 'https://via.placeholder.com/400'} alt={movie.Title} />
                 </div>
                 <div>
-                  
                     <h3>{movie.Title}</h3>
                     <h5>{movie.Year}</h5>
            
