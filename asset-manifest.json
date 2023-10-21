@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coolMovies-app/static/css/main.49eabb0f.css",
+    "main.js": "/coolMovies-app/static/js/main.f3b012c3.js",
+    "static/js/787.5d5ea81f.chunk.js": "/coolMovies-app/static/js/787.5d5ea81f.chunk.js",
+    "static/media/tv.svg": "/coolMovies-app/static/media/tv.af86e0eb18539b3eed9640aeb68a3b28.svg",
+    "static/media/search.svg": "/coolMovies-app/static/media/search.1fa0f9d76cb1b6399d9270ec9e17074e.svg",
+    "index.html": "/coolMovies-app/index.html",
+    "main.49eabb0f.css.map": "/coolMovies-app/static/css/main.49eabb0f.css.map",
+    "main.f3b012c3.js.map": "/coolMovies-app/static/js/main.f3b012c3.js.map",
+    "787.5d5ea81f.chunk.js.map": "/coolMovies-app/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49eabb0f.css",
+    "static/js/main.f3b012c3.js"
+  ]
+}
